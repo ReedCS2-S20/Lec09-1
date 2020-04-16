@@ -20,3 +20,10 @@ carefully.
 
 Here, we just dive right in.
 
+## Video Links
+
+`Slide 01` [Part 01. MIPS Redux](https://ensemble.reed.edu/Watch/z3M8Rxc5) *06m00s*  
+`Slide 04` [Part 02. Introduction](https://ensemble.reed.edu/Watch/Sw87JrQm) *09m00s*  
+`Slide 06` [Part 03. Complex Numbers](https://ensemble.reed.edu/Watch/i6R2AeLy) *12m00s*  
+`Slide 16` [Part 04. Complex Struct Vs Class](https://ensemble.reed.edu/Watch/g9A8Gze6) *15m00s*  
+`Slide 28` [Part 05. Tour of Cmpx](https://ensemble.reed.edu/Watch/i3H9StGb) *10m00s*  
